@@ -6,6 +6,7 @@
 Myrmidon is one of the serveral repositories with Docker container configurations. All these repositories are one of my big personal projects to reduce the time of the configuration process of making a Docker container.
 
 >**Note**: I know that there are pre-configurator containers but as I said it is a personal project.
+>
 >**Note**: I will not be supporting this repository or any others; you are free to download it and use it as is, but if it does not work for you, I am not responsible in any way for it.
 
 This repository have all the configurations you need, including a DB image of `PostgreSQL` in your container to work in a development environment.
